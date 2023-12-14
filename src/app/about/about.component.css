@@ -1,0 +1,17 @@
+.profiles {
+    display: flex;
+    flex-direction: column;
+    padding: 15px;
+}
+
+.profiles button {
+    font-size: 24px;
+    margin: 15px;
+    border: 2px solid;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.profiles button:hover {
+    box-shadow: 10px 10px;
+}
